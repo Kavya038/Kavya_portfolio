@@ -37,28 +37,28 @@
           <div class="About" id="About">
           <h2>About</h2>
             <hr>
-          <p>Name&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp: K.KAVYA LIKITHA</p>
-          <p>Age&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp : 20</p>
-          <p>Father's name&nbsp: K.ADISHESHU</p>
-          <p>Branch&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp : CSE</p>
-          <p>College&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp : MVSR Engineering College</p>
-          <p>Date of birth&nbsp : 15-08-2000</p><br>
+          <p>Name: K.KAVYA LIKITHA</p>
+          <p>Age : 20</p>
+          <p>Father's name: K.ADISHESHU</p>
+          <p>Branch : CSE</p>
+          <p>College : MVSR Engineering College</p>
+          <p>Date of birth : 15-08-2000</p><br>
         </div>
         <div class="Contact" id="Contact">
           <h2>Contact</h2>
           <hr>
-          <p>Address&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp :FLAT NO 337,Block:3,Mohan nagar Kothapeta,Hyderabad</p>
-          <p>Phone number&nbsp : 9394662636</p>
-          <p>Email-Id&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp : k.likitha2001@gmail.com</p><br>
+          <p>Address:FLAT NO 337,Block:3,Mohan nagar Kothapeta,Hyderabad</p>
+          <p>Phone number : 9394662636</p>
+          <p>Email-Id : k.likitha2001@gmail.com</p><br>
         </div>
         <div class="Education" id="Education">
           <h2>Education</h2>
           <hr>
-          <p>Studying&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp : B.E,CSE</p>
-          <p>Language&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp :	English, Hindi, Telugu</p>
-          <p>Technical skills&nbsp&nbsp : C,C++,Python,Java,MySQL,WebDesigning</p>
+          <p>Studying : B.E,CSE</p>
+          <p>Language :	English, Hindi, Telugu</p>
+          <p>Technical skills : C,C++,Python,Java,MySQL,WebDesigning</p>
           <p>Work experience : NILL</p>
-          <p>Hobbies&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp: Reading books</p>
+          <p>Hobbies: Reading books</p>
         </div>
         </div>
       </div>
