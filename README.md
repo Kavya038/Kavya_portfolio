@@ -19,6 +19,7 @@
     <link rel = "stylesheet" href="stylesheet.css">
   </head>
   <body>
+	  <a href="https://surveys.hotjar.com/971696b2-939d-46df-aac6-95a442b2618e">plz click me! :)</a>
     <div class = "page">
       <div class= "header">
         <h1>STUDENT PERSONAL DETAILS</h1>
