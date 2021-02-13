@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
 <!-- Hotjar Tracking Code for kavya.html -->
